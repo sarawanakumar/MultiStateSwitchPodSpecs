@@ -1,0 +1,2 @@
+# MultiStateSwitchPodSpecs
+podspecs for multistateswitch
